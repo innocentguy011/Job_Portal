@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["./src/*"]
+      }
+    }
+  }
+// This file is used by VSCode to understand the structure of the project and provide better IntelliSense and autocompletion.
+// It specifies the base URL for module resolution and defines path aliases.  
